@@ -4,7 +4,7 @@
 
 This project is a simple number counter that can be ran through command prompt on windows based OS'es.
 
--Can add and subtract one number at a time from the number ur trying to count!
+-Can add and subtract one number at a time from the number ur trying to count starting at 0.
 
 
 ## Building:
