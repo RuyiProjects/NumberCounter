@@ -1,0 +1,14 @@
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Debug\net8.0\NumberCounter.exe
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Debug\net8.0\NumberCounter.deps.json
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Debug\net8.0\NumberCounter.runtimeconfig.json
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Debug\net8.0\NumberCounter.dll
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Debug\net8.0\NumberCounter.pdb
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Debug\net8.0\NumberCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Debug\net8.0\NumberCounter.AssemblyInfoInputs.cache
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Debug\net8.0\NumberCounter.AssemblyInfo.cs
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Debug\net8.0\NumberCounter.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Debug\net8.0\NumberCounter.dll
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Debug\net8.0\refint\NumberCounter.dll
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Debug\net8.0\NumberCounter.pdb
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Debug\net8.0\NumberCounter.genruntimeconfig.cache
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Debug\net8.0\ref\NumberCounter.dll
