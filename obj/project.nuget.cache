@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DLLoR1vnTZ8=",
+  "dgSpecHash": "dlxMFoGdlGE=",
   "success": true,
   "projectFilePath": "C:\\Users\\dakot\\source\\repos\\NumberCounter\\NumberCounter\\NumberCounter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dakot\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

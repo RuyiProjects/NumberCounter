@@ -1,0 +1,15 @@
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Release\net8.0\win-x64\NumberCounter.exe
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Release\net8.0\win-x64\NumberCounter.deps.json
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Release\net8.0\win-x64\NumberCounter.runtimeconfig.json
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Release\net8.0\win-x64\NumberCounter.dll
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\bin\Release\net8.0\win-x64\NumberCounter.pdb
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\NumberCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\NumberCounter.AssemblyInfoInputs.cache
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\NumberCounter.AssemblyInfo.cs
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\NumberCounter.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\NumberCounter.sourcelink.json
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\NumberCounter.dll
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\refint\NumberCounter.dll
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\NumberCounter.pdb
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\NumberCounter.genruntimeconfig.cache
+C:\Users\dakot\source\repos\NumberCounter\NumberCounter\obj\Release\net8.0\win-x64\ref\NumberCounter.dll
