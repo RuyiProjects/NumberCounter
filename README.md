@@ -24,7 +24,7 @@ Change to the directory:
 cd NumberCounter-master
 ```
 
-Then build it.
+Then build it:
 
 ``` 
 dotnet build
