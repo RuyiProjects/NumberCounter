@@ -32,7 +32,7 @@ dotnet build
 
 After this the executable should be under NumberCounter-master>bin>Debug>net8.0.
 
-## Dependencies
+## Requirements
 
 -Requires dot net sdk 8.0 or newer
 
