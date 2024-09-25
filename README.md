@@ -18,12 +18,28 @@ Clone the repository:
 git clone https://github.com/RuyiProjects/NumberCounter.git
 ```
 
+Change to the directory:
+
+``` 
+cd NumberCounter-master
+```
+
 Then build it.
 
 ``` 
-build
+dotnet build
 ```
 
 Now after extracting the zip the executable should be under NumberCounter-master>bin>Debug>net8.0.
+
+## Dependencies
+
+-Requires dot net sdk 8.0 or newer
+
+-Also requires git
+
+
+
+
 
 
