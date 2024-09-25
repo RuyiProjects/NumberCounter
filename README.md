@@ -22,6 +22,8 @@ Then build it.
 
 ``` 
 build
-``` 
+```
+
+Now after extracting the zip the executable should be under NumberCounter-master>bin>Debug>net8.0.
 
 
