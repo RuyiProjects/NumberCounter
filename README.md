@@ -21,7 +21,7 @@ git clone https://github.com/RuyiProjects/NumberCounter.git
 Change to the directory:
 
 ``` 
-cd NumberCounter-master
+cd NumberCounter
 ```
 
 Then build it:
